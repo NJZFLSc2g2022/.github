@@ -8,7 +8,7 @@ We([NJZFLS Class2 of 2022](https://github.com/NJZFLSc2g2022)) are a regional Git
 
 We are determined to include all emoticons in _NZFLS Class2 of 2022_
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NJZFLSc2g2022&repo=NJZFLSc2g2022-Meme_Library)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NJZFLSc2g2022&repo=NJZFLSc2g2022-Meme_Library)](https://github.com/NJZFLSc2g2022/NJZFLSc2g2022-Meme_Library)
 
 <!--
 
