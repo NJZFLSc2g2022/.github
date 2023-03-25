@@ -6,9 +6,9 @@ Our ([NJZFLS Class2 of 2022](https://github.com/NJZFLSc2g2022)) is a regional Gi
 
 #### NJZFLSc2g2022-Meme_Library
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NJZFLSc2g2022&repo=NJZFLSc2g2022-Meme_Library)](https://github.com/anuraghazra/github-readme-stats)
+We are determined to include all emoticons in _NZFLS Class2 of 2022_
 
-Delivery all the emoticons in NZFLS Class 2 of 2022
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NJZFLSc2g2022&repo=NJZFLSc2g2022-Meme_Library)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 
