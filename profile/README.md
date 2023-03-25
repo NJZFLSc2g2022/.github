@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Our ([NJZFLS Class2 of 2022](https://github.com/NJZFLSc2g2022)) is a regional GitHub Organization in the _Nanjing Zhenghe Foreign Language School(NZFLS)_  Class 2 of 2022.✌️
+We([NJZFLS Class2 of 2022](https://github.com/NJZFLSc2g2022)) are a regional GitHub Organization in the _Nanjing Zhenghe Foreign Language ,Jiangsu,P.R.China(NZFLS)_  Class 2 of 2022.✌️
 
 ### Pinned Repositories
 
