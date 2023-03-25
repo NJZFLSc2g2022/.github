@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Our ([NJZFLS Class2 of 2022](https://github.com/NJZFLSc2g2022)) is a regional GitHub Organization in the _Nanjing Zhenghe Foreign Language School_  Class 2 of 2022
+
 ### Pinned Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NJZFLSc2g2022&repo=NJZFLSc2g2022-Meme_Library)](https://github.com/anuraghazra/github-readme-stats)
