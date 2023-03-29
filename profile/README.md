@@ -4,7 +4,7 @@ We([NZFLS Class2 of 2022](https://github.com/NJZFLSc2g2022)) are a regional GitH
 
 ## Where we are
 
-Building 40, Fulishanzhuang, Houbiaoying Road, Baixia District, Nanjing City, Jiangsu Province, P.R.China  中国江苏省南京市白下区后标营路富丽山庄40幢
+2RHM+J78, Houbiaoying Rd, Nanjing, Jiangsu, China, 210095  中国江苏省南京市白下区后标营路富丽山庄40幢
 
 Postal code邮政编码: 210095
 
