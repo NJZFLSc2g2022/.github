@@ -12,10 +12,13 @@ Postal code邮政编码: 210095
 
 [![where we are](https://user-images.githubusercontent.com/91039316/228396471-85aa7afc-0e28-48e3-80f9-9f52456553b8.jpeg)](https://goo.gl/maps/Nnm2qGfBnvaxWHDg8)
 
+## Sponsor
 
-### Pinned Repositories
+[![support me on afd-发电紫](https://user-images.githubusercontent.com/91039316/229685800-ad7aac90-21bb-4014-afe6-60e6ea9902e3.svg)](https://afdian.net/@FredW)
 
-#### NJZFLSc2g2022-Meme_Library
+## Pinned Repositories
+
+### NJZFLSc2g2022-Meme_Library
 
 We are determined to include all emoticons in _NZFLS Class2 of 2022_
 
