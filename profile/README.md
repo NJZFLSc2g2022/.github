@@ -16,6 +16,8 @@ Postal code邮政编码: 210095
 
 [![support me on afd-发电紫](https://user-images.githubusercontent.com/91039316/229685800-ad7aac90-21bb-4014-afe6-60e6ea9902e3.svg)](https://afdian.net/@FredW)
 
+[![Donate](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/FredQSWang)
+
 ## Pinned Repositories
 
 ### NJZFLSc2g2022-Meme_Library
