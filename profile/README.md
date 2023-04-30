@@ -1,3 +1,9 @@
+<p align="center">
+<a href="https://github.com/NJZFLSc2g2022/NJZFLSc2g2022-Emoji-library">
+  <img width="150" src="https://emoji.nzcae.eu.org/NZFLS 2022届2班.png" alt="NZFLS 2022届2班" width="300">
+</a>
+<br>
+
 ## Hi there 👋
 
 We([NZFLS Class2 of 2022](https://github.com/NJZFLSc2g2022)) are a regional GitHub Organization in the _Zhenghe Foreign Language School,Nanjing ,Jiangsu,P.R.China(NZFLS)_  Class 2 of 2022.✌️
