@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/NJZFLSc2g2022/NJZFLSc2g2022-Elementary_File">
+<a href="https://github.com/NJZFLSc2g2022/NJZFLSc2g2022-Elementary_File/blob/main/">
   <img width="150" src="hhttps://github.com/NJZFLSc2g2022/NJZFLSc2g2022-Elementary_File/blob/main/6F83A50A-D897-4BC2-89BD-93CEF6F762EA.jpeg" alt="6F83A50A-D897-4BC2-89BD-93CEF6F762EA" width="300">
 </a>
 <br>
