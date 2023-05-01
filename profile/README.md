@@ -1,5 +1,14 @@
 [pinned](https://github.com/NJZFLSc2g2022/.github/blob/main/%E5%B0%81%E9%9D%A2.JPG)
 
+<p align="center">
+<a href="https://github.com/NJZFLSc2g2022/.github">
+  <img width="150" src="<p align="center">
+
+<a href="https://github.com/NJZFLSc2g2022/.github/blob/main/%E5%B0%81%E9%9D%A2.JPG">" alt="封面" width="300">
+</a>
+<br>
+南京郑和外国语学校2022届2班-库
+
 ## Hi there 👋
 
 We([NZFLS Class2 of 2022](https://github.com/NJZFLSc2g2022)) are a regional GitHub Organization in the _Zhenghe Foreign Language School,Nanjing ,Jiangsu,P.R.China(NZFLS)_  Class 2 of 2022.✌️
