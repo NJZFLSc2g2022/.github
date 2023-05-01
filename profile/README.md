@@ -4,7 +4,8 @@
 <a href="https://github.com/NJZFLSc2g2022/.github">
   <img width="150" src="<p align="center">
 
-<a href="https://github.com/NJZFLSc2g2022/.github/blob/main/%E5%B0%81%E9%9D%A2.JPG"> <alt="封面" width="300">
+<a href="https://github.com/NJZFLSc2g2022/.github/blob/main/封面.JPG"> 
+<alt="封面" width="300">
 </a>
 <br>
 南京郑和外国语学校2022届2班-库
