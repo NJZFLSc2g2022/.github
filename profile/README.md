@@ -4,8 +4,8 @@
 <a href="https://github.com/NJZFLSc2g2022">
   <img width="150" src="<p align="center">
 
-<a href="https://raw.githubusercontent.com/NJZFLSc2g2022/NJZFLSc2g2022-Elementary_File/main/NZFLS%202022%E5%B1%8A2%E7%8F%AD.png"> 
-<alt="logo" width="300">
+<a href="https://elem.nzcae.eu.org/NZFLS%202022%E5%B1%8A2%E7%8F%AD.png"> 
+<alt="NZFLS Class2 of 2022" width="300">
 </a>
 <br>
 南京郑和外国语学校2022届2班-库
