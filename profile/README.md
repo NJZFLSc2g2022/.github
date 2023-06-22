@@ -1,12 +1,10 @@
 <p align="center">
-<a href="https://github.com/NJZFLSc2g2022">
-  <img width="150" src="<p align="center">
-
-<a href="https://elem.nzcae.eu.org/NZFLS%202022%E5%B1%8A2%E7%8F%AD.png"> 
-<alt="NZFLS Class2 of 2022" width="300">
+<a href="https://github.com/NJZFLSc2g2022/NJZFLSc2g2022-Emoji-library">
+  <img width="150" src="https://elem.nzcae.eu.org/NZFLS%202022届2班.png" alt="NZFLS 2022届2班" width="300">
 </a>
 <br>
 南京郑和外国语学校2022届2班
+</p>
 
 ## Hi there 👋
 
