@@ -1,5 +1,3 @@
-[pinned](https://github.com/NJZFLSc2g2022/.github/blob/main/%E5%B0%81%E9%9D%A2.JPG)
-
 <p align="center">
 <a href="https://github.com/NJZFLSc2g2022">
   <img width="150" src="<p align="center">
