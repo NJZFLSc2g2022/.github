@@ -1,10 +1,10 @@
 [pinned](https://github.com/NJZFLSc2g2022/.github/blob/main/%E5%B0%81%E9%9D%A2.JPG)
 
 <p align="center">
-<a href="https://github.com/NJZFLSc2g2022/.github">
+<a href="https://github.com/NJZFLSc2g2022">
   <img width="150" src="<p align="center">
 
-<a href="https://github.com/NJZFLSc2g2022/NJZFLSc2g2022-Elementary_File/blob/main/NZFLS%202022%E5%B1%8A2%E7%8F%AD.png"> 
+<a href="https://raw.githubusercontent.com/NJZFLSc2g2022/NJZFLSc2g2022-Elementary_File/main/NZFLS%202022%E5%B1%8A2%E7%8F%AD.png"> 
 <alt="logo" width="300">
 </a>
 <br>
