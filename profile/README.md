@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/NJZFLSc2g2022/NJZFLSc2g2022-Emoji-library">
+<a href="https://github.com/NJZFLSc2g2022">
   <img width="150" src="https://elem.nzcae.eu.org/NZFLS%202022届2班.png" alt="NZFLS 2022届2班" width="300">
 </a>
 <br>
