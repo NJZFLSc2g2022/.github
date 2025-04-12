@@ -8,13 +8,13 @@
 
 ## Hi there 👋
 
-We([NZFLS Class2 of 2022](https://github.com/NJZFLSc2g2022)) are a regional GitHub Organization in the _Zhenghe Foreign Language School,Nanjing ,Jiangsu,P.R.China(NZFLS)_  Class 2 of 2022.✌️
+We([NZFLS Class2 of 2022](https://github.com/NJZFLSc2g2022)) are a regional GitHub Organization in the _Zhenghe Foreign Language School, Nanjing, Jiangsu, P.R.China (NZFLS)_  Class 2 of 2022.✌️
 
 ## Where we are
 
 2RHM+J78, Houbiaoying Rd, Nanjing, Jiangsu, China, 210095  中国江苏省南京市白下区后标营路富丽山庄40幢
 
-Postal code邮政编码: 210095
+Postal Code 邮政编码: 210095
 
 [Google Map](https://goo.gl/maps/Nnm2qGfBnvaxWHDg8) / [Baidu Map](https://j.map.baidu.com/54/cLgJ) / [Bing Map](https://www.bing.com/maps?osid=a95b4ff0-e496-4726-93f3-c1d7290b7be9&cp=pb4bb8tx25jd&lvl=16&v=2&sV=2&form=S00027)
 
